@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TabsUnderViewPager</string>
+    <string name="first_tab">First Tab</string>
+    <string name="second_tab">Second Tab</string>
+</resources>
